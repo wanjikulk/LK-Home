@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lk Home</string>
+    <string-array name="contacts">
+        <item>Lee</item>
+        <item>Gladys</item>
+        <item>Peter</item>
+        <item>Wanjiku</item>
+        <item>Ivan</item>
+        <item>Allan</item>
+        <item>Weveti</item>
+        <item>Nduta</item>
+        <item>Lynn</item>
+        <item>Neil</item>
+    </string-array>
+</resources>
